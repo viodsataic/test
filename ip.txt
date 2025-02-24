@@ -1,4 +1,3 @@
-以下是删除重复域名后的结果：
 myanmar.visa.com
 www.visa.com.tw
 www.visaeurope.ch
@@ -44,9 +43,9 @@ challenge.developers.cloudflare.com
 pages.cloudflare.com
 ns.cloudflare.com
 bestip.10002024.us.kg
-cf.090227.xyz#三网自适应分流官方优选
-ct.090227.xyz#电信官方优选
-cmcc.090227.xyz#移动官方优选
+cf.090227.xyz
+ct.090227.xyz
+cmcc.090227.xyz
 shopify.com
 ip.sb
 japan.com
@@ -60,11 +59,11 @@ www.visakorea.com
 www.gco.gov.qa
 www.gov.se
 www.gov.ua
-cfip.xxxxxxxx.tk#OTC提供维护官方优选
-bestcf.onecf.eu.org#Mingyu提供维护官方优选
-cf.zhetengsha.eu.org#小一提供维护官方优选
-acjp2.cloudflarest.link#KJKKK维护官方优选
-achk.cloudflarest.link#KJKKK维护官方优选
+cfip.xxxxxxxx.tk
+bestcf.onecf.eu.org
+cf.zhetengsha.eu.org
+acjp2.cloudflarest.link
+achk.cloudflarest.link
 xn--b6gac.eu.org
 yx.887141.xyz
 8.889288.xyz
@@ -74,6 +73,7 @@ cf.345673.xyz
 cf-st.annoy.eu.org
 cf.0sm.com
 cf.877771.xyz
+172.67.189.161
 104.16.11.56
 104.17.135.61
 104.17.134.96
