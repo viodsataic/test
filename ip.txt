@@ -11,16 +11,8 @@ https://addressesapi.090227.xyz/CloudFlareYes
 https://ipdb.api.030101.xyz/?type=bestproxy&country=true
 https://ipdb.api.030101.xyz/?type=bestcf&country=true
 https://addressesapi.090227.xyz/ip.164746.xyz
-https://cn.xxxxxxxx.tk/
-https://cm.xxxxxxxx.tk/
-https://cu.xxxxxxxx.tk/
-https://cnv6.xxxxxxxx.tk/
-https://ctv6.xxxxxxxx.tk/
-https://cmv6.xxxxxxxx.tk/
-https://cuv6.xxxxxxxx.tk/
 https://cfipv4.xxxxxxxx.nyc.mn/
 https://cfipv6.xxxxxxxx.nyc.mn/
-https://raw.githubusercontent.com/pingmike2/auto-email/refs/heads/main/addapi.txt
 june.ns.cloudflare.com
 cloudflaretv.cloudflareaccess.com
 rpki.cloudflare.com
